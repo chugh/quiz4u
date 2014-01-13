@@ -1,4 +1,5 @@
 <?php
+//hgfgfh
 include('database.php');
 class studentProfile{
 	private $database = new Database();
